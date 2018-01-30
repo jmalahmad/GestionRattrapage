@@ -5,7 +5,6 @@ INDEX VERSION 1.130+D:\Enseignement\2017_2018\Presentation\Git\Tutorial\.metadat
 2652778527.index
 1269183262.index
 2661381517.index
-1845498358.index
 4274237055.index
 3807279936.index
 4182530004.index
